@@ -64,7 +64,7 @@ Design Principles and Design Patterns -- Robert C. Martin(Uncle Bob)
 <br>
 
 ## KISS
-<br>
+
 
 ### Keep It Simple, Stupid (KISS)
 
@@ -76,7 +76,7 @@ Design Principles and Design Patterns -- Robert C. Martin(Uncle Bob)
 
 ## DRY
 
-<br>
+
 
 ### Don't repeat yourself (DRY)
 
@@ -87,7 +87,7 @@ Design Principles and Design Patterns -- Robert C. Martin(Uncle Bob)
 
 ## YAGNI
 
-<br>
+
 
 ### You aren't gonna need it (YAGNI)
 
