@@ -11,8 +11,6 @@
 
 ## SOLID
 
-<hr>
-<br>
 
 SOLID is an acronym for the first five object-oriented design (OOD) principles by Robert C. Martin
 
@@ -29,7 +27,6 @@ Design Principles and Design Patterns -- Robert C. Martin(Uncle Bob)
 
 <br>
 <hr>
-<br>
 
 ### Single-Responsibility Principle
 
@@ -67,8 +64,6 @@ Design Principles and Design Patterns -- Robert C. Martin(Uncle Bob)
 <br>
 
 ## KISS
-
-<hr>
 <br>
 
 ### Keep It Simple, Stupid (KISS)
@@ -81,7 +76,6 @@ Design Principles and Design Patterns -- Robert C. Martin(Uncle Bob)
 
 ## DRY
 
-<hr>
 <br>
 
 ### Don't repeat yourself (DRY)
@@ -93,7 +87,6 @@ Design Principles and Design Patterns -- Robert C. Martin(Uncle Bob)
 
 ## YAGNI
 
-<hr>
 <br>
 
 ### You aren't gonna need it (YAGNI)
